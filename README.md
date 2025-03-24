@@ -20,3 +20,8 @@ export default function Home() {
     </div>
   );
 }
+git init
+git add .
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/seu-usuario/ra-leme.git
+git push -u origin master
